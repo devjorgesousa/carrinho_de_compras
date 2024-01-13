@@ -1,2 +1,2 @@
 # Carrinho de Compras
-Um carrinho de compras simples feito com React.js
+Um carrinho de compras feito com React.js
