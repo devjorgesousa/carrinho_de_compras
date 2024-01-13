@@ -1,6 +1,9 @@
 # Carrinho de Compras
 #### Um carrinho de compras feito com React.js. 
 
+![](./Screenshots/)
+![](./Screenshots/)
+
 ## Funcionalidades do projeto
 
 #### 
@@ -30,10 +33,10 @@
 ## 🎲 Rodando o Projeto 
 
 ###### 1ª Clone este repositório
-* git clone 
+* git clone https://github.com/devjorgesousa/carrinho_de_compras.git
 
-###### 2ª Acesse a pasta do projeto no terminal/cmd ou Visual Studio Code, após descompactar o arquivo .zip.
-* cd 
+###### 2ª Acesse a pasta do projeto no terminal/cmd ou Visual Studio Code, após descompactar o arquivo carrinho_de_compras-main.zip.
+* cd carrinho_de_compras-main
 
 ###### 3ª Instale as dependências.
 * npm install
