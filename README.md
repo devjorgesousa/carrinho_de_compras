@@ -4,10 +4,7 @@
 
 #### Um carrinho de compras feito com React.js.
 
-#### Permite escolher a quantidade do produto que irá comprar
-![](./Screenshots/)
-
-#### Após escolher a quantidade do produto, clicando em Adicionar ao carrinho será adicionado no carrinho de compras
+#### Após escolher a quantidade do produto, clicando em "Adicionar ao Carrinho" será adicionado o produto no carrinho de compras.
 ![](./Screenshots/)
 
 ## 🛠 Tecnologias e Ferramentas usadas na construção do projeto:
