@@ -8,6 +8,8 @@
 ![](./Screenshots/print2.png)
 
 * Demonstração:
+ 
+![](./Screenshots/demonstracao.gif)
 
 ##### Link do projeto hospedado no Vercel: https://carrinho-de-compras-azure.vercel.app/
 
