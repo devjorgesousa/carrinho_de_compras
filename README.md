@@ -2,14 +2,12 @@
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
-#### Um carrinho de compras feito com React.js. 
+#### Um carrinho de compras feito com React.js.
 
+#### Permite escolher a quantidade do produto que irá comprar
 ![](./Screenshots/)
-![](./Screenshots/)
 
-## Funcionalidades do projeto
-
-#### 
+#### Após escolher a quantidade do produto, clicando em Adicionar ao carrinho será adicionado no carrinho de compras
 ![](./Screenshots/)
 
 ## 🛠 Tecnologias e Ferramentas usadas na construção do projeto:
