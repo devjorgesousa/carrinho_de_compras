@@ -4,8 +4,12 @@
 
 #### Um carrinho de compras feito com React.js.
 
-#### Após escolher a quantidade do produto, clicando em "Adicionar ao Carrinho" será adicionado o produto no carrinho de compras.
-![](./Screenshots/)
+![](./Screenshots/print.png)
+![](./Screenshots/print2.png)
+
+* Demonstração:
+
+##### Link do projeto hospedado no Vercel: https://carrinho-de-compras-azure.vercel.app/
 
 ## 🛠 Tecnologias e Ferramentas usadas na construção do projeto:
 
@@ -43,6 +47,7 @@
 * npm start
 
 ###### 5ª O projeto iniciará na porta: 3000 - Acesse: http://localhost:3000
+
 
 
 
