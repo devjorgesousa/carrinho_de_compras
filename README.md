@@ -1,13 +1,11 @@
 # Carrinho de Compras
 
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
-
 #### Um carrinho de compras feito com React.js.
 
 ![](./Screenshots/print.png)
 ![](./Screenshots/print2.png)
 
-* Demonstração:
+##### Demonstração:
  
 ![](./Screenshots/demonstracao.gif)
 
